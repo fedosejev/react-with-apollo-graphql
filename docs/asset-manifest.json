@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.23055582.chunk.js",
-    "main.js.map": "/static/js/main.23055582.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1fa4b068.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1fa4b068.js.map",
-    "static/js/2.a8a4dfeb.chunk.js": "/static/js/2.a8a4dfeb.chunk.js",
-    "static/js/2.a8a4dfeb.chunk.js.map": "/static/js/2.a8a4dfeb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a15545e8daad8bf7489f69b3e467c5a0.js": "/precache-manifest.a15545e8daad8bf7489f69b3e467c5a0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.a8a4dfeb.chunk.js.LICENSE.txt": "/static/js/2.a8a4dfeb.chunk.js.LICENSE.txt"
+    "main.js": "/react-with-apollo-graphql/static/js/main.23055582.chunk.js",
+    "main.js.map": "/react-with-apollo-graphql/static/js/main.23055582.chunk.js.map",
+    "runtime-main.js": "/react-with-apollo-graphql/static/js/runtime-main.dbc7469d.js",
+    "runtime-main.js.map": "/react-with-apollo-graphql/static/js/runtime-main.dbc7469d.js.map",
+    "static/js/2.a8a4dfeb.chunk.js": "/react-with-apollo-graphql/static/js/2.a8a4dfeb.chunk.js",
+    "static/js/2.a8a4dfeb.chunk.js.map": "/react-with-apollo-graphql/static/js/2.a8a4dfeb.chunk.js.map",
+    "index.html": "/react-with-apollo-graphql/index.html",
+    "precache-manifest.8dec3424bcb84f1ebad3d16675841388.js": "/react-with-apollo-graphql/precache-manifest.8dec3424bcb84f1ebad3d16675841388.js",
+    "service-worker.js": "/react-with-apollo-graphql/service-worker.js",
+    "static/js/2.a8a4dfeb.chunk.js.LICENSE.txt": "/react-with-apollo-graphql/static/js/2.a8a4dfeb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fa4b068.js",
+    "static/js/runtime-main.dbc7469d.js",
     "static/js/2.a8a4dfeb.chunk.js",
     "static/js/main.23055582.chunk.js"
   ]
