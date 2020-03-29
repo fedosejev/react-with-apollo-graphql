@@ -35,7 +35,7 @@ function Jobs(props) {
   return (
     <div className="container mt-5 mb-5">
       <div className="row">
-        <div className="col-sm">
+        <div className="col-lg-8 offset-lg-2">
           <h1 className="mb-4">
             GraphQL Jobs <NumberOfJobs jobs={props.jobs} />
           </h1>
