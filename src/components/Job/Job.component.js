@@ -1,10 +1,10 @@
 import React from "react";
 
-function Job(props) {
-  function getCities(cities) {
-    return cities.map(city => city.name).join(", ");
-  }
+function getCities(cities) {
+  return cities.map(city => city.name).join(", ");
+}
 
+function Job(props) {
   const cities = getCities(props.job.cities);
 
   return (
