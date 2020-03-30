@@ -3,9 +3,9 @@
 Example of how to use React with Apollo GraphQL.
 
 - See it in action: https://fedosejev.github.io/react-with-apollo-graphql/
-- Step by step tutorial: _TBD_
+- Step by step tutorial: http://react.tips/react-with-apollo-graphql/
 
-Source files with `.antipattern` in their names are examples of how you should NOT write your code.
+Source files with `.antipattern.js` in their names are examples of how you should NOT write your code.
 
 ## Install
 
